@@ -56,7 +56,7 @@ These are the mandatory product flows that are expected while building the backe
 - Fork and Clone the repo using
 
 ```
-$ git clone https://gitlab.crio.do/COHORT_ME_BUILDOUT_XHARKTANK_ENROLL_1668411037975/sonirudrakshi99-ME_BUILDOUT_XHARKTANK.git
+$ git clone https://github.com/rudrakshi99/XharkTank.git
 ```
 
 - Setup Virtual environment
