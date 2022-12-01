@@ -39,7 +39,7 @@ These are the mandatory product flows that are expected while building the backe
 - **Backend**: Django Rest Framework
 - **IDE**: VS Code
 - **API Testing & Documentation:** Postman
-- **Version Control**: Git and GitLab
+- **Version Control**: Git and GitHub
 - **Database**: SQLite
 
 ## Important Links :
