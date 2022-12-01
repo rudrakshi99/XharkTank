@@ -16,7 +16,7 @@ These are the mandatory product flows that are expected while building the backe
 
 2. Investors will view all the latest pitches posted to date
 
-- If the entrepreneurs post a new pitch, that should also get listed. Note that these submitted pitches will be shown one below the other.
+- If the entrepreneurs post a new pitch, that would also get listed. 
 
 3. Investors will make a counteroffer to the pitch by providing these inputs
 
@@ -25,9 +25,14 @@ These are the mandatory product flows that are expected while building the backe
 - Amount ready to invest in the idea
 - Ask Percentage of Equity for a company
 
+# Demo Video
+
+<a href="https://www.youtube.com/watch?v=q8gE4icwmsw"> <img src="https://user-images.githubusercontent.com/55245862/205116045-5d1ae28d-c885-4216-8660-83998cbc9dc1.png" alt="Demo Video" height='250' width='430'/> </a>
+
+
 ## Technology Stack to be used:
 
-<img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/django%20-%23092E20.svg?&style=for-the-badge&logo=django&logoColor=white"/> <img src="https://img.shields.io/badge/markdown-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white"/> <img src="https://img.shields.io/badge/postgres-0B96B2?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/django%20-%23092E20.svg?&style=for-the-badge&logo=django&logoColor=white"/> <img src="https://img.shields.io/badge/markdown-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white"/> <img src="https://img.shields.io/badge/sqlite-0B96B2?style=for-the-badge&logo=sqlite&logoColor=white"/>
 
 [![Run in Postman](https://run.pstmn.io/button.svg)](https://documenter.getpostman.com/view/14143990/2s8Yt1rUoy)
 
@@ -35,7 +40,7 @@ These are the mandatory product flows that are expected while building the backe
 - **IDE**: VS Code
 - **API Testing & Documentation:** Postman
 - **Version Control**: Git and GitLab
-- **Database**: PostgreSQL
+- **Database**: SQLite
 
 ## Important Links :
 
