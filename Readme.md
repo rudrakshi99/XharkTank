@@ -40,11 +40,11 @@ These are the mandatory product flows that are expected while building the backe
 ## Important Links :
 
 ### Frontend
-* Entrepreneurs Link : http://xharktank.crio.do/pitches/?author=sonirudrakshi99&url=http%3A%2F%2Frudrakshijss.pythonanywhere.com
-* Investor Link : http://xharktank.crio.do/invest/?author=sonirudrakshi99&url=http%3A%2F%2Frudrakshijss.pythonanywhere.com
+* [Entrepreneurs Link](http://xharktank.crio.do/pitches/?author=sonirudrakshi99&url=http%3A%2F%2Frudrakshijss.pythonanywhere.com)
+* [Investor Link](http://xharktank.crio.do/invest/?author=sonirudrakshi99&url=http%3A%2F%2Frudrakshijss.pythonanywhere.com)
 
 ### Backend
-* Link : http://rudrakshijss.pythonanywhere.com/
+* [Link](http://rudrakshijss.pythonanywhere.com/)
 
 ### Backend Setup Instructions
 
