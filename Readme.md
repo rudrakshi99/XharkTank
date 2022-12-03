@@ -100,6 +100,20 @@ $ python3 manage.py createsuperuser
 ```
 $ python3 manage.py runserver
 ```
+
+## Testing Instructions
+
+- Install the dependencies
+```
+$ pip3 install -r assessment/requirements.txt
+```
+- run the basic tests
+```
+$ python3 -m pytest --pspec --disable-pytest-warnings assessment/main.py
+```
+
+
+
 # License :memo:
 
 This project follows the [MIT License](https://choosealicense.com/licenses/mit/).
